@@ -654,8 +654,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -1449,8 +1449,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -1830,8 +1830,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -2018,8 +2018,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -2349,8 +2349,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -3557,8 +3557,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -4162,8 +4162,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -4978,8 +4978,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -5484,8 +5484,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -6206,8 +6206,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -6710,8 +6710,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -7331,8 +7331,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -7646,8 +7646,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -7850,8 +7850,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -8677,8 +8677,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -8881,8 +8881,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
@@ -9185,8 +9185,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 1
-  directionChangeInterval: 3
+  speed: 4.5
+  directionChangeInterval: 0
   keepNearStartingPoint: 1
   orientToDirection: 0
   lookAxis: 0
