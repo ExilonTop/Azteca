@@ -39,21 +39,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: fondo
-    uniqueID: 1914217583
-    locked: 0
-  - name: enemigo
-    uniqueID: 2559458491
-    locked: 0
-  - name: player
-    uniqueID: 477994151
-    locked: 0
-  - name: platafortma
-    uniqueID: 1513323569
-    locked: 0
-  - name: hub
-    uniqueID: 1051556995
-    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 1900314419
+    locked: 0
+  - name: enenmy
+    uniqueID: 1518724653
+    locked: 0
+  - name: plataform
+    uniqueID: 620975067
+    locked: 0
+  - name: player
+    uniqueID: 984229479
+    locked: 0
+  - name: hub
+    uniqueID: 3171545399
     locked: 0
